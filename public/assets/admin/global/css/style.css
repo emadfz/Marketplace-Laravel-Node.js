@@ -1,0 +1,4 @@
+.days-price .col-sm-4{margin-bottom: 10px; position: relative}
+.days-price .incres{position: absolute; right:0px; top: 75px; border:1px solid #000; border-radius:5px; padding:0px 5px;
+    cursor: pointer; }
+.days-price .remove{position: absolute;right:-9px; padding: 1px 7px; cursor: pointer; }
